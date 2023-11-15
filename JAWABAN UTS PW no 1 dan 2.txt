@@ -1,0 +1,17 @@
+1. Kerangka kerja yang diciptakan untuk membantu web developer dalam   penulisan kode akan jauh lebih mudah, cepat, dan terstruktur rapi.
+
+2. Tema : Laundry
+   Jobdesk : Muhammad Syihabudin (DataBase)
+	         Farhan Fadhillah (Web)
+	         Azhar Ilham Fauzi (Laporan)
+
+3.Permasalahan
+    a. Pengelolaan persediaan stok: Kesulitan dalam mengelola stok deterjen, pelembut, dan perlengkapan laundry lainnya,
+    b. Kesulitan Manajemen karyawan:Kesulitan dalam menjadwal karyawan atau kurangnya karyawan
+    c. Tidak adanya fitur edit dalam data pelanggan:jadi tidak adanya fitur edit ini,sipelanggan harus bikin data lagi.
+
+ Solusi
+    a. Sistem manajemen inventaris untuk melacak persediaan dan memberikan peringatan saat stok rendah.
+    b. Penggunaan aplikasi manajemen jadwal karyawan untuk efisiensi dan fleksibilitas yang lebih baik.
+    c. jadi disini kita akan menambahkan fitur edit dalam data pelanggan.
+Penerapan solusi-solusi ini dapat membantu meningkatkan efisiensi operasional, kualitas layanan, dan kepuasan pelanggan dalam bisnis laundry.
